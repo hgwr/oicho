@@ -1,0 +1,11 @@
+{
+  "name": "oicho-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shigeru Hagiwara <hgwrsgr@gmail.com> (https://github.com/hgwr)",
+  "license": "ISC"
+}
